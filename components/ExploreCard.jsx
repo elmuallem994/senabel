@@ -3,12 +3,20 @@ import styles from '../styles';
 import { fadeIn } from '../utils/motion';
 import { useRouter } from 'next/router';
 
-const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => {
+const ExploreCard = ({
+  id,
+  aliasId,
+  imgUrl,
+  title,
+  index,
+  active,
+  handleClick,
+}) => {
   const router = useRouter();
   const handleClickk = (e) => {
     if (active === id) {
       e.stopPropagation();
-      router.push(`/product/${encodeURIComponent(title)}`);
+      router.push(`/product/${encodeURIComponent(aliasId)}`);
     }
   };
 

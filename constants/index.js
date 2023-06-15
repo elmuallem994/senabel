@@ -3,28 +3,33 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
+    aliasId: 'coffee',
     imgUrl: '/kahveanva.jpg',
-    title: 'coffee',
+    title: 'القهوة',
   },
   {
     id: 'world-5',
+    aliasId: 'Oriental cooking',
     imgUrl: '/tapihsh.png',
-    title: 'Oriental cooking',
+    title: 'الطبخ الشرقي',
   },
   {
     id: 'world-3',
+    aliasId: 'olive oil',
     imgUrl: '/samangr (2).jpg',
-    title: 'olive oil',
+    title: 'زيت زيتون',
   },
   {
     id: 'world-4',
+    aliasId: 'Deluxe sweets with cream',
     imgUrl: '/halvaka.jpg',
-    title: 'Deluxe sweets with cream',
+    title: 'حلويات فاخرة بالقشطة',
   },
   {
     id: 'world-2',
+    aliasId: 'Sanabel honey',
     imgUrl: '/magmoa1.jpg',
-    title: 'Sanabel honey',
+    title: 'عسل سنابل',
   },
 ];
 
@@ -79,6 +84,7 @@ export const cookinsights = [
   },
   {
     id: 'Oriental cooking',
+    aliasId: 'Oriental cooking',
     imgUrl: '/tapihsh.png',
     title: 'الطبخ الشرقي',
     subtitle: 'شاهد أصناف الطبخ الشرقي',
@@ -94,18 +100,21 @@ export const cookinsights = [
 export const fooodinsights = [
   {
     id: 'Sanabel honey',
+    aliasId: 'Sanabel honey',
     imgUrl: '/magmoa1.jpg',
     title: 'عسل سنابل',
     subtitle: 'من أفخر أنواع العسل',
   },
   {
     id: 'olive oil',
+    aliasId: 'olive oil',
     imgUrl: '/samangr (2).jpg',
     title: 'زيت الزيتون',
     subtitle: 'من أفخر أنواع زيت الزيتون',
   },
   {
     id: 'coffee',
+    aliasId: 'coffee',
     imgUrl: '/kahveanva.jpg',
     title: 'القهوة',
     subtitle: 'من أفضل أنواع القهوة الفاخرة',
@@ -163,6 +172,7 @@ export const sweetsInsights = [
   },
   {
     id: 'Deluxe sweets with cream',
+    aliasId: 'Deluxe sweets with cream',
     imgUrl: '/halvaka.jpg',
     title: 'حلويات فاخرة بالقشطة',
     subtitle: 'من أفضل وأجود أنواع الحلويات القشاطي',
