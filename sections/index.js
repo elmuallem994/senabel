@@ -7,6 +7,7 @@ import World from './World';
 import Insights from './Insights';
 import FoodInsights from './FoodInsights';
 import VideoComponent from './VideoComponent';
+import Topsesh from './Topsesh';
 
 export {
   Hero,
@@ -18,4 +19,5 @@ export {
   Insights,
   FoodInsights,
   VideoComponent,
+  Topsesh,
 };

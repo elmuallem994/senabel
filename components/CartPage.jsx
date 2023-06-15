@@ -40,55 +40,31 @@ const CartPage = () => {
   );
 
   const sendToWhatsApp = () => {
-    const foodCompanyPhoneNumber = '+905347750054'; // Replace with your food company phone number
-    const sweetsCompanyPhoneNumber = '+905061899214'; // Replace with your sweets company phone number
+    const companyPhoneNumber = '+905347750054'; // Replace with your company phone number
 
-    const foodItems = cart.filter((item) => item.type === 'food');
-    const sweetItems = cart.filter((item) => item.type === 'sweets');
+    const orderDetails = cart
+      .map(
+        (item) =>
+          `⬅*${item.title}*` +
+          `\n${item.quantity} X ${item.price} = *${
+            item.price * item.quantity
+          } TL*`,
+      )
+      .join('\n\n');
 
-    const createMessage = (items) => {
-      const orderDetails = items
-        .map(
-          (item) =>
-            `⬅*${item.title}*` +
-            `\n${item.quantity} X ${item.price} = *${
-              item.price * item.quantity
-            } TL*`,
-        )
-        .join('\n\n');
+    const message =
+      `*عدد المنتجات*: ${
+        cart.length
+      }\n\n${orderDetails}\n\n------------------\n*المجموع* ✅\n🧾 *${totalPrice.toFixed(
+        2,
+      )} TL*` +
+      (notes ? `\n\n🔸*ملاحظات*: ${notes}` : '') +
+      (phoneNumber ? `\n\n🔸*رقم الهاتف*: ${phoneNumber}` : '');
 
-      const totalPrice = items.reduce(
-        (total, item) => total + item.price * item.quantity,
-        0,
-      );
+    const encodedMessage = encodeURIComponent(message);
+    const whatsappUrl = `https://api.whatsapp.com/send?phone=${companyPhoneNumber}&text=${encodedMessage}`;
 
-      return (
-        `*عدد المنتجات*: ${
-          items.length
-        }\n\n${orderDetails}\n\n------------------\n*المجموع* ✅\n🧾 *${totalPrice.toFixed(
-          2,
-        )} TL*` +
-        (notes ? `\n\n🔸*ملاحظات*: ${notes}` : '') +
-        (phoneNumber ? `\n\n🔸*رقم الهاتف*: ${phoneNumber}` : '')
-      );
-    };
-
-    const foodMessage = createMessage(foodItems);
-    const sweetsMessage = createMessage(sweetItems);
-
-    const encodedFoodMessage = encodeURIComponent(foodMessage);
-    const encodedSweetsMessage = encodeURIComponent(sweetsMessage);
-
-    const foodWhatsappUrl = `https://api.whatsapp.com/send?phone=${foodCompanyPhoneNumber}&text=${encodedFoodMessage}`;
-    const sweetsWhatsappUrl = `https://api.whatsapp.com/send?phone=${sweetsCompanyPhoneNumber}&text=${encodedSweetsMessage}`;
-
-    if (foodItems.length > 0) {
-      window.open(foodWhatsappUrl, '_blank');
-    }
-
-    if (sweetItems.length > 0) {
-      window.open(sweetsWhatsappUrl, '_blank');
-    }
+    window.open(whatsappUrl, '_blank');
   };
 
   return (

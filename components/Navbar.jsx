@@ -34,13 +34,15 @@ const Navbar = () => {
 
   return (
     <motion.nav
-      className={`${styles.xPaddings} py-8 fixed top-8  xl:left-0 w-full z-10 ${
+      className={`${
+        styles.xPaddings
+      } py-8 fixed md:top-9 top-12  xl:left-0 w-full z-10 ${
         !showNavbar && 'hidden'
       }`}
       style={{ zIndex: 2000 }}
     >
       <button
-        className="md:hidden p-2 fixed top-11 right-8 z-30 text-2xl"
+        className="md:hidden p-2 fixed top-16 right-8 z-30 text-2xl"
         onClick={() => setHamburgerOpen(!hamburgerOpen)}
         type="button"
       >
@@ -52,7 +54,7 @@ const Navbar = () => {
 
       {isHomePage && (
         <Link href="/menu">
-          <h1 className="absolute md:p-3 p-1 rounded-lg bg-yellow-500 hover:bg-yellow-600 ml-auto md:right-20  md:top-14 top-5 rocking-animation">
+          <h1 className="absolute md:p-3 p-1 rounded-lg bg-yellow-500 hover:bg-yellow-600 ml-auto md:right-20  md:top-12 top-7 rocking-animation">
             <FontAwesomeIcon
               icon={faStore}
               className="text-white md:text-5xl text-2xl"
@@ -63,7 +65,7 @@ const Navbar = () => {
 
       <div className="flex justify-center items-center w-full mx-auto xl:pr-1">
         {/* Logo */}
-        <div className="absolute left-[50%] transform -translate-x-1/2 top-1/2 -translate-y-1/2">
+        <div className="absolute left-[50%] transform -translate-x-1/2 md:top-[50%] top-[65%] -translate-y-1/2">
           <Link href="/">
             <img
               src="/logo.png"

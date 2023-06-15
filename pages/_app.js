@@ -1,7 +1,8 @@
 import Head from 'next/head';
-import { useRouter } from 'next/router'; // Moved this import up
+import { useRouter } from 'next/router';
 import { CartProvider } from '../context/CartContext';
 import ShoppingCartIcon from '../components/ShoppingCartIcon';
+import Topsesh from '../sections/Topsesh'; // Import the Topsesh component
 import '../styles/globals.css';
 import { config } from '@fortawesome/fontawesome-svg-core';
 import '@fortawesome/fontawesome-svg-core/styles.css';
@@ -28,9 +29,10 @@ const MyApp = ({ Component, pageProps }) => {
             href="https://stijndv.com/fonts/Eudoxus-Sans.css"
           />
         </Head>
-
+        <div className="bg-primary-black">
+          <Topsesh />
+        </div>
         <Component {...pageProps} />
-
         {currentRoute !== '/' && currentRoute !== '/cart' && (
           <ShoppingCartIcon />
         )}
