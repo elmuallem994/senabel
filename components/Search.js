@@ -53,12 +53,12 @@ const Search = () => {
         onMouseEnter={() => setIsExpanded(true)}
         onMouseLeave={() => !searchTerm && setIsExpanded(true)}
       >
-        <div className="absolute right-0 top-1/2 transform -translate-y-1/2 translate-x-8 z-10 text-xl text-white">
+        <div className="absolute right-0 top-1/2 transform -translate-y-1/2 translate-x-7 z-10 text-xl text-white">
           <FontAwesomeIcon icon={faSearch} />
         </div>
         <input
           type="text"
-          className="transition-all duration-500 ease-in-out pl-4 w-64 bg-transparent border-b-2 border-white text-white focus:outline-none shadow-md"
+          className="transition-all duration-500 ease-in-out pl-4 md:w-64 w-48 bg-transparent border-b-2 border-white text-white focus:outline-none shadow-md"
           placeholder="ابدأ البحث ..."
           onChange={(event) => setSearchTerm(event.target.value)}
           value={searchTerm}
@@ -76,14 +76,15 @@ const Search = () => {
       {searchTerm && (
         <div
           ref={dropdownRef}
-          className="absolute left-auto  md:w-96 w-72"
+          className="absolute md:w-96 w-72"
           style={{
             zIndex: 3000,
             background: 'white',
             color: 'black',
             maxHeight: '400px',
             overflowX: 'auto',
-            right: 0,
+            left: '50%',
+            transform: 'translateX(-50%)',
           }}
         >
           {filteredProducts.length > 0 ? (

@@ -29,9 +29,10 @@ const MyApp = ({ Component, pageProps }) => {
             href="https://stijndv.com/fonts/Eudoxus-Sans.css"
           />
         </Head>
-        <div className="bg-primary-black">
+        <div className="bg-primary-black hidden md:flex " dir="rtl">
           <Topsesh />
         </div>
+
         <Component {...pageProps} />
         {currentRoute !== '/' && currentRoute !== '/cart' && (
           <ShoppingCartIcon />

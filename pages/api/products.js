@@ -125,11 +125,11 @@ export const foodProducts = {
         type: 'food',
       },
       {
-        id: 'أزهار جبلية450',
-        imgUrl: '/azhar475.jpg',
-        title: 'عسل أزهار جبلية 475 غرام',
-        description: 'أزهار جبلية ارتفاع 1500 متر',
-        price: '217',
+        id: 'أزهار جبلية 950',
+        imgUrl: '/azhar975.jpg',
+        title: 'عسل أزهار جبلية 975 غرام',
+        description: 'أزهار جبلية ارتفاع 2500 متر',
+        price: '475',
         type: 'food',
       },
 
@@ -267,6 +267,14 @@ export const foodProducts = {
         title: 'عسل الغذاء الملكي 475 غرام',
         description: 'مع الغذاء الملكي والجنسينغ',
         price: '410',
+        type: 'food',
+      },
+      {
+        id: 'غذاء ملكي114',
+        imgUrl: '/aslasiww.jpg',
+        title: 'عسل خلطة منتجات الخلية 475 غرام',
+        description: 'غبار الطلع - عكبر - زنجبيل - قرفة',
+        price: '475',
         type: 'food',
       },
       {
