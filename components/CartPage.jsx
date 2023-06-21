@@ -40,7 +40,7 @@ const CartPage = () => {
   );
 
   const sendToWhatsApp = () => {
-    const companyPhoneNumber = '+905347750054'; // Replace with your company phone number
+    const companyPhoneNumber = '+905527097507'; // Replace with your company phone number
 
     const orderDetails = cart
       .map(

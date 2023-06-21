@@ -134,8 +134,11 @@ const Navbar = () => {
 
         {hamburgerOpen && (
           <motion.div
-            className="md:hidden bg-primary-black fixed top-0 left-0 w-full h-auto z-20 p-4"
-            style={{ boxShadow: '0 4px 6px rgba(0, 0, 0, 0.3)' }}
+            className="md:hidden bg-primary-black fixed top-0 left-0 w-full h-auto z-20 p-4 overflow-y-auto"
+            style={{
+              boxShadow: '0 4px 6px rgba(0, 0, 0, 0.3)',
+              maxHeight: '60vh',
+            }} // 80vh is 80% of the viewport height. Adjust this to your needs.
             initial={{ x: '-100%' }}
             animate={{ x: '0%' }}
             transition={{ type: 'spring', stiffness: 100, damping: 20 }}

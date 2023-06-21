@@ -125,11 +125,19 @@ export const foodProducts = {
         type: 'food',
       },
       {
-        id: 'أزهار جبلية 950',
+        id: 'أزهار جبلية 740',
         imgUrl: '/azhar975.jpg',
         title: 'عسل أزهار جبلية 975 غرام',
-        description: 'أزهار جبلية ارتفاع 2500 متر',
+        description: 'أزهار جبلية ارتفاع فوق 2000 متر',
         price: '475',
+        type: 'food',
+      },
+      {
+        id: 'أزهار جبلية 770',
+        imgUrl: '/azhar475.jpg',
+        title: 'عسل أزهار جبلية 475 غرام',
+        description: 'أزهار جبلية ارتفاع فوق 2000 متر',
+        price: '240',
         type: 'food',
       },
 
@@ -274,7 +282,7 @@ export const foodProducts = {
         imgUrl: '/aslasiww.jpg',
         title: 'عسل خلطة منتجات الخلية 475 غرام',
         description: 'غبار الطلع - عكبر - زنجبيل - قرفة',
-        price: '475',
+        price: '350',
         type: 'food',
       },
       {
