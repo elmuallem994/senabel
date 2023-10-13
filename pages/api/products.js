@@ -121,7 +121,7 @@ export const foodProducts = {
         imgUrl: '/azhar975.jpg',
         title: 'عسل أزهار جبلية 975 غرام',
         description: 'أزهار جبلية ارتفاع 1500 متر',
-        price: '435',
+        price: '505',
         type: 'food',
       },
       {
@@ -129,7 +129,7 @@ export const foodProducts = {
         imgUrl: '/azhar975.jpg',
         title: 'عسل أزهار جبلية 975 غرام',
         description: 'أزهار جبلية ارتفاع فوق 2000 متر',
-        price: '475',
+        price: '550',
         type: 'food',
       },
       {
@@ -137,7 +137,7 @@ export const foodProducts = {
         imgUrl: '/azhar475.jpg',
         title: 'عسل أزهار جبلية 475 غرام',
         description: 'أزهار جبلية ارتفاع فوق 2000 متر',
-        price: '240',
+        price: '280',
         type: 'food',
       },
 
@@ -146,7 +146,7 @@ export const foodProducts = {
         imgUrl: '/aswak975.jpg',
         title: 'عسل الشوكيات 975 غرام',
         description: 'عسل تركي طبيعي',
-        price: '415',
+        price: '480',
         type: 'food',
       },
       {
@@ -154,7 +154,7 @@ export const foodProducts = {
         imgUrl: '/aswak475.jpg',
         title: 'عسل الشوكيات 475 غرام',
         description: 'عسل تركي طبيعي',
-        price: '210',
+        price: '245',
         type: 'food',
       },
       {
@@ -162,7 +162,7 @@ export const foodProducts = {
         imgUrl: '/sanawbae975.jpg',
         title: 'عسل الصنوبر 975 غرام',
         description: 'عسل الصنوبر الطبيعي',
-        price: '350',
+        price: '405',
         type: 'food',
       },
       {
@@ -170,7 +170,7 @@ export const foodProducts = {
         imgUrl: '/sanawbar475.jpg',
         title: 'عسل الصنوبر 475 غرام',
         description: 'عسل الصنوبر الطبيعي',
-        price: '180',
+        price: '205',
         type: 'food',
       },
       {
@@ -178,7 +178,7 @@ export const foodProducts = {
         imgUrl: '/hamdiyat975.jpg',
         title: 'عسل زهرة الحمضيات 975 غرام',
         description: 'عسل تركي طبيعي',
-        price: '275',
+        price: '320',
         type: 'food',
       },
       {
@@ -186,7 +186,7 @@ export const foodProducts = {
         imgUrl: '/hamdiyat475.jpg',
         title: 'عسل زهرة الحمضيات 475 غرام',
         description: 'عسل تركي طبيعي',
-        price: '140',
+        price: '165',
         type: 'food',
       },
       {
@@ -194,7 +194,7 @@ export const foodProducts = {
         imgUrl: '/abyad975.jpg',
         title: 'عسل أبيض 975 غرام',
         description: 'رحيق أزهار الساحل',
-        price: '415',
+        price: '480',
         type: 'food',
       },
       {
@@ -202,7 +202,7 @@ export const foodProducts = {
         imgUrl: '/abyad475.jpg',
         title: 'عسل أبيض 430 غرام',
         description: 'رحيق أزهار الساحل',
-        price: '210',
+        price: '245',
         type: 'food',
       },
       {
@@ -210,7 +210,7 @@ export const foodProducts = {
         imgUrl: '/sadir975.jpg',
         title: 'عسل السدر 975 غرام',
         description: 'عسل تركي طبيعي',
-        price: '445',
+        price: '515',
         type: 'food',
       },
       {
@@ -218,7 +218,7 @@ export const foodProducts = {
         imgUrl: '/sadir475.jpg',
         title: 'عسل السدر 475 غرام',
         description: 'عسل تركي طبيعي',
-        price: '225',
+        price: '260',
         type: 'food',
       },
       {
@@ -226,7 +226,7 @@ export const foodProducts = {
         imgUrl: '/mazig975.jpg',
         title: 'عسل مزيج الأزهار 975 غرام',
         description: 'عسل تركي طبيعي',
-        price: '385',
+        price: '445',
         type: 'food',
       },
       {
@@ -234,7 +234,7 @@ export const foodProducts = {
         imgUrl: '/mazig475.jpg',
         title: 'عسل مزيج الأزهار 475 غرام',
         description: 'عسل تركي طبيعي',
-        price: '195',
+        price: '225',
         type: 'food',
       },
       {
@@ -242,7 +242,7 @@ export const foodProducts = {
         imgUrl: '/soda975.jpg',
         title: 'عسل زهرةالحبة السوداء 975 غرام',
         description: 'عسل تركي طبيعي (حبة البركة)',
-        price: '545',
+        price: '650',
         type: 'food',
       },
       {
@@ -250,7 +250,7 @@ export const foodProducts = {
         imgUrl: '/soda475.jpg',
         title: 'عسل زهرةالحبة السوداء 475 غرام',
         description: 'عسل تركي طبيعي (حبة البركة)',
-        price: '275',
+        price: '335',
         type: 'food',
       },
       {
@@ -258,7 +258,7 @@ export const foodProducts = {
         imgUrl: '/zallo975.jpg',
         title: 'عسل زهرة الزلوع 975 غرام',
         description: 'عسل تركي طبيعي',
-        price: '495',
+        price: '570',
         type: 'food',
       },
       {
@@ -266,7 +266,7 @@ export const foodProducts = {
         imgUrl: '/zallo475.jpg',
         title: 'عسل زهرة الزلوع 475 غرام',
         description: 'عسل تركي طبيعي',
-        price: '250',
+        price: '290',
         type: 'food',
       },
       {
@@ -274,7 +274,7 @@ export const foodProducts = {
         imgUrl: '/malaki475.jpg',
         title: 'عسل الغذاء الملكي 475 غرام',
         description: 'مع الغذاء الملكي والجنسينغ',
-        price: '410',
+        price: '475',
         type: 'food',
       },
       {
@@ -282,7 +282,7 @@ export const foodProducts = {
         imgUrl: '/aslasiww.jpg',
         title: 'عسل خلطة منتجات الخلية 475 غرام',
         description: 'غبار الطلع - عكبر - زنجبيل - قرفة',
-        price: '350',
+        price: '405',
         type: 'food',
       },
       {
@@ -290,7 +290,7 @@ export const foodProducts = {
         imgUrl: '/kastana475.jpg',
         title: 'أزهار الكستنا والزيزفون 475 غرام',
         description: 'من أشجار الكستناء وأزهار الزيزفون',
-        price: '320',
+        price: '370',
         type: 'food',
       },
       {
@@ -298,7 +298,7 @@ export const foodProducts = {
         imgUrl: '/sahad1.jpg',
         title: 'عسل طبيعي بالشهد',
         description: 'من أزهار الحمضيات',
-        price: '415',
+        price: '480',
         type: 'food',
       },
       {
@@ -306,7 +306,7 @@ export const foodProducts = {
         imgUrl: '/talia125.jpg',
         title: 'غبار الطلع 125 غرام',
         description: 'حبوب اللقاح',
-        price: '95',
+        price: '110',
         type: 'food',
       },
       {
@@ -314,7 +314,7 @@ export const foodProducts = {
         imgUrl: '/akbar10.jpg',
         title: 'عكبر النحل 10 غرام',
         description: 'صمغ النحل أو البروبوليس',
-        price: '95',
+        price: '110',
         type: 'food',
       },
       {
@@ -322,7 +322,7 @@ export const foodProducts = {
         imgUrl: '/kimalaki10.jpg',
         title: 'غذاء ملكات النحل 10 غرام',
         description: 'غذاء الملكات الطبيعي',
-        price: '325',
+        price: '375',
         type: 'food',
       },
     ],
@@ -335,7 +335,7 @@ export const foodProducts = {
         imgUrl: '/litir1.jpg',
         title: 'زيت 1 لتر',
         description: 'زيت بكر نوع أول',
-        price: '115',
+        price: '195',
         type: 'food',
       },
       {
@@ -343,7 +343,7 @@ export const foodProducts = {
         imgUrl: '/litir5.jpg',
         title: 'زيت 5 لتر',
         description: 'زيت بكر نوع أول',
-        price: '565',
+        price: '970',
         type: 'food',
       },
       {
@@ -351,7 +351,7 @@ export const foodProducts = {
         imgUrl: '/litir10.jpg',
         title: 'زيت 10 لتر',
         description: 'زيت بكر نوع أول',
-        price: '1110',
+        price: '1930',
         type: 'food',
       },
       {
@@ -359,7 +359,7 @@ export const foodProducts = {
         imgUrl: '/litir18.jpg',
         title: 'زيت 18 لتر',
         description: 'زيت بكر نوع أول',
-        price: '1960',
+        price: '3420',
         type: 'food',
       },
     ],
@@ -381,7 +381,7 @@ export const foodProducts = {
         imgUrl: '/kaskagr.jpg',
         title: 'الكشك',
         description: '500 غرام من الكشك الطبيعي',
-        price: '70',
+        price: '85',
         type: 'food',
       },
     ],
@@ -395,7 +395,7 @@ export const foodProducts = {
         imgUrl: '/mismis.jpg',
         title: 'لوح المشمش',
         description: ' أجود أنواع قمر الدين 300GR',
-        price: '35',
+        price: '55',
         type: 'food',
       },
       {
@@ -403,7 +403,7 @@ export const foodProducts = {
         imgUrl: '/mango.jpg',
         title: 'لوح المانغو',
         description: ' أجود أنواع قمر الدين 300GR',
-        price: '35',
+        price: '55',
         type: 'food',
       },
       {
@@ -411,7 +411,7 @@ export const foodProducts = {
         imgUrl: '/fraz.jpg',
         title: 'لوح فريز',
         description: ' أجود أنواع قمر الدين 300GR',
-        price: '35',
+        price: '55',
         type: 'food',
       },
       {
@@ -419,39 +419,39 @@ export const foodProducts = {
         imgUrl: '/burtukal.jpg',
         title: 'لوح البرتقال',
         description: ' أجود أنواع قمر الدين 300GR',
-        price: '35',
+        price: '55',
         type: 'food',
       },
       {
         id: 'قمر5',
         imgUrl: '/mumas.jpg',
         title: 'مكعبات المشمش',
-        description: 'مكعبات قمر الدين الشهية 500GR',
-        price: '110',
+        description: 'مكعبات قمر الدين الشهية 1 كغ',
+        price: '320',
         type: 'food',
       },
       {
         id: 'قمر8',
         imgUrl: '/mufraz.jpg',
         title: 'مكعبات الفريز',
-        description: 'مكعبات قمر الدين الشهية 500GR',
-        price: '110',
+        description: 'مكعبات قمر الدين الشهية 1 كغ',
+        price: '320',
         type: 'food',
       },
       {
         id: 'قمر6',
         imgUrl: '/mubart.jpg',
         title: 'مكعبات البرتقال',
-        description: 'مكعبات قمر الدين الشهية 500GR',
-        price: '110',
+        description: 'مكعبات قمر الدين الشهية 1 كغ',
+        price: '320',
         type: 'food',
       },
       {
         id: 'قمر7',
         imgUrl: '/mumanc.jpg',
         title: 'مكعبات المانجو',
-        description: 'مكعبات قمر الدين الشهية 500GR',
-        price: '110',
+        description: 'مكعبات قمر الدين الشهية 1 كغ',
+        price: '320',
         type: 'food',
       },
 
@@ -459,8 +459,8 @@ export const foodProducts = {
         id: 'قمر9',
         imgUrl: '/mucav.jpg',
         title: 'مكعبات الجوافة',
-        description: 'مكعبات قمر الدين الشهية 500GR',
-        price: '110',
+        description: 'مكعبات قمر الدين الشهية 1 كغ',
+        price: '320',
         type: 'food',
       },
     ],
@@ -473,7 +473,7 @@ export const foodProducts = {
         imgUrl: '/kaex.jpg',
         title: 'قهوة بريميوم اكسترا',
         description: '250GR',
-        price: '75',
+        price: '95',
         type: 'food',
       },
       {
@@ -481,7 +481,7 @@ export const foodProducts = {
         imgUrl: '/hewa.jpg',
         title: 'قهوة هيل وسط',
         description: '250GR',
-        price: '70',
+        price: '90',
         type: 'food',
       },
       {
@@ -489,7 +489,7 @@ export const foodProducts = {
         imgUrl: '/sadaaa.jpg',
         title: 'قهوة سادة بدون هيل',
         description: '250GR',
-        price: '65',
+        price: '85',
         type: 'food',
       },
     ],
@@ -502,7 +502,7 @@ export const foodProducts = {
         imgUrl: '/samangr.jpg',
         title: 'السمن الحيواني',
         description: 'أفضل أنواع السمن الحيواني (البقري) 850GR',
-        price: '290',
+        price: '330',
         type: 'food',
       },
     ],
@@ -516,7 +516,7 @@ export const foodProducts = {
         imgUrl: '/OlivePost1.png',
         title: 'زيتون أخضر',
         description: 'أفضل أنواع الزيتون 650GR',
-        price: '70',
+        price: '85',
         type: 'food',
       },
       {
@@ -524,7 +524,7 @@ export const foodProducts = {
         imgUrl: '/OlivePost2.png',
         title: 'زيتون أسود',
         description: 'أفضل أنواع الزيتون 650GR',
-        price: '80',
+        price: '95',
         type: 'food',
       },
       {
@@ -532,7 +532,7 @@ export const foodProducts = {
         imgUrl: '/OlivePost3.png',
         title: 'زيتون سلطة اكسترا',
         description: 'أفضل أنواع الزيتون 950GR',
-        price: '90',
+        price: '110',
         type: 'food',
       },
     ],
@@ -546,7 +546,15 @@ export const foodProducts = {
         imgUrl: '/kremafi.jpg',
         title: 'كريمة الفستق',
         description: 'كريمة الفستق القابلة للدهن 200GR',
-        price: '85',
+        price: '95',
+        type: 'food',
+      },
+      {
+        id: 'كريمة-الفستق2',
+        imgUrl: '/kremafi.jpg',
+        title: 'كريمة الفستق',
+        description: 'كريمة الفستق القابلة للدهن 330GR',
+        price: '135',
         type: 'food',
       },
     ],
@@ -559,7 +567,7 @@ export const foodProducts = {
         imgUrl: '/mrabaward.jpg',
         title: 'مربى الورد 800 غرام',
         description: 'الورد الجوري الطبيعي',
-        price: '110',
+        price: '125',
         type: 'food',
       },
       {
@@ -567,7 +575,7 @@ export const foodProducts = {
         imgUrl: '/waerd.jpg',
         title: 'مربى الورد 450 غرام',
         description: 'الورد الجوري الطبيعي',
-        price: '65',
+        price: '75',
         type: 'food',
       },
     ],
@@ -583,7 +591,7 @@ export const sweetsProducts = {
         imgUrl: '/fiska1000.png',
         title: 'مشكل فستق وكاجو',
         description: '1000 غرام',
-        price: '550',
+        price: '720',
         type: 'sweets',
       },
 
@@ -592,7 +600,7 @@ export const sweetsProducts = {
         imgUrl: '/fika750.png',
         title: 'مشكل فستق وكاجو',
         description: '750 غرام',
-        price: '415',
+        price: '540',
         type: 'sweets',
       },
       {
@@ -600,7 +608,7 @@ export const sweetsProducts = {
         imgUrl: '/fika500.png',
         title: 'مشكل فستق وكاجو',
         description: '500 غرام',
-        price: '275',
+        price: '360',
         type: 'sweets',
       },
       {
@@ -608,7 +616,7 @@ export const sweetsProducts = {
         imgUrl: '/fika250.png',
         title: 'مشكل فستق وكاجو',
         description: '250 غرام',
-        price: '175',
+        price: '190',
         type: 'sweets',
       },
       {
@@ -616,7 +624,7 @@ export const sweetsProducts = {
         imgUrl: '/fika100.png',
         title: 'مشكل فستق كاجو',
         description: '100 غرام',
-        price: '90',
+        price: '100',
         type: 'sweets',
       },
       {
@@ -624,7 +632,7 @@ export const sweetsProducts = {
         imgUrl: '/fikass1000.png',
         title: 'مشكل فستق وكاجو بالعسل الملكي',
         description: '1000 غرام',
-        price: '740',
+        price: '950',
         type: 'sweets',
       },
       {
@@ -632,7 +640,7 @@ export const sweetsProducts = {
         imgUrl: '/malika500.png',
         title: 'مشكل فستق وكاجو بالعسل الملكي',
         description: '500 غرام',
-        price: '370',
+        price: '500',
         type: 'sweets',
       },
       {
@@ -640,7 +648,31 @@ export const sweetsProducts = {
         imgUrl: '/eksta1000.png',
         title: 'مشكل فستق اكسترا',
         description: '1000 غرام',
-        price: '670',
+        price: '820',
+        type: 'sweets',
+      },
+      {
+        id: 'عربي147',
+        imgUrl: '/eksta1000.png',
+        title: 'مشكل فستق اكسترا',
+        description: '800 غرام',
+        price: '660',
+        type: 'sweets',
+      },
+      {
+        id: 'عربي157',
+        imgUrl: '/eksta1000.png',
+        title: 'مشكل فستق اكسترا',
+        description: '550 غرام',
+        price: '460',
+        type: 'sweets',
+      },
+      {
+        id: 'عربي187',
+        imgUrl: '/eksta1000.png',
+        title: 'مشكل فستق اكسترا',
+        description: '350 غرام',
+        price: '300',
         type: 'sweets',
       },
 
@@ -649,7 +681,7 @@ export const sweetsProducts = {
         imgUrl: '/baklava500.png',
         title: 'بقلاوة بالفستق',
         description: '500 غرام',
-        price: '225',
+        price: '325',
         type: 'sweets',
       },
       {
@@ -657,7 +689,7 @@ export const sweetsProducts = {
         imgUrl: '/fasta500.png',
         title: 'آسية بالفستق الحلبي',
         description: '500 غرام',
-        price: '350',
+        price: '410',
         type: 'sweets',
       },
 
@@ -666,7 +698,7 @@ export const sweetsProducts = {
         imgUrl: '/sakae500.png',
         title: 'كول وشكور',
         description: '500 غرام',
-        price: '335',
+        price: '410',
         type: 'sweets',
       },
       {
@@ -674,7 +706,7 @@ export const sweetsProducts = {
         imgUrl: '/halap500.png',
         title: 'أصابع بالفستق الحلبي',
         description: '500 غرام',
-        price: '335',
+        price: '410',
         type: 'sweets',
       },
       {
@@ -682,7 +714,7 @@ export const sweetsProducts = {
         imgUrl: '/saba500.png',
         title: 'أصابع كاجو',
         description: '500 غرام',
-        price: '200',
+        price: '240',
         type: 'sweets',
       },
       {
@@ -690,7 +722,15 @@ export const sweetsProducts = {
         imgUrl: '/mabruma500.png',
         title: 'مبرومة ترانشات',
         description: '500 غرام',
-        price: '375',
+        price: '475',
+        type: 'sweets',
+      },
+      {
+        id: 'عربي184',
+        imgUrl: '/tajmalk12.jpg',
+        title: 'تاج الملك بالمكسرات',
+        description: '1000 غرام',
+        price: '500',
         type: 'sweets',
       },
       {
@@ -698,7 +738,7 @@ export const sweetsProducts = {
         imgUrl: '/asba500.png',
         title: 'عش البلبل بالفستق الحلبي',
         description: '500 غرام',
-        price: '350',
+        price: '425',
         type: 'sweets',
       },
       {
@@ -706,7 +746,7 @@ export const sweetsProducts = {
         imgUrl: '/tamriya600.png',
         title: 'تمرية',
         description: '600 غرام',
-        price: '270',
+        price: '390',
         type: 'sweets',
       },
 
@@ -731,7 +771,7 @@ export const sweetsProducts = {
         imgUrl: '/balham500.png',
         title: 'بلورية حمراء',
         description: '500 غرام',
-        price: '350',
+        price: '410',
         type: 'sweets',
       },
       {
@@ -739,7 +779,7 @@ export const sweetsProducts = {
         imgUrl: '/balbay500.png',
         title: 'بلورية بيضاء',
         description: '500 غرام',
-        price: '350',
+        price: '410',
         type: 'sweets',
       },
 
@@ -748,7 +788,7 @@ export const sweetsProducts = {
         imgUrl: '/faysal500sa.png',
         title: 'فيصلية',
         description: '500 غرام',
-        price: '250',
+        price: '325',
         type: 'sweets',
       },
 
@@ -757,7 +797,7 @@ export const sweetsProducts = {
         imgUrl: '/dolama1000.png',
         title: 'أصابع خضراء دولما',
         description: '1000 غرام',
-        price: '620',
+        price: '650',
         type: 'sweets',
       },
     ],
@@ -770,7 +810,7 @@ export const sweetsProducts = {
         imgUrl: '/manawsaf500.png',
         title: 'مشكل نواشف',
         description: '500 غرام',
-        price: '160',
+        price: '170',
         type: 'sweets',
       },
       {
@@ -778,7 +818,7 @@ export const sweetsProducts = {
         imgUrl: '/manavsa250.png',
         title: 'مشكل نواشف',
         description: '250 غرام',
-        price: '110',
+        price: '115',
         type: 'sweets',
       },
       {
@@ -786,7 +826,7 @@ export const sweetsProducts = {
         imgUrl: '/msana100.png',
         title: 'مشكل نواشف',
         description: '100 غرام',
-        price: '55',
+        price: '60',
         type: 'sweets',
       },
       {
@@ -794,7 +834,7 @@ export const sweetsProducts = {
         imgUrl: '/mayax50.png',
         title: 'معمول عجوة كعب الغزال',
         description: '500 غرام',
-        price: '160',
+        price: '170',
         type: 'sweets',
       },
       {
@@ -826,7 +866,7 @@ export const sweetsProducts = {
         imgUrl: '/fahalep500.png',
         title: 'معمول بالفستق الحلبي',
         description: '500 غرام',
-        price: '320',
+        price: '375',
         type: 'sweets',
       },
       {
@@ -834,7 +874,7 @@ export const sweetsProducts = {
         imgUrl: '/coz500.png',
         title: 'معمول بالجوز',
         description: '500 غرام',
-        price: '200',
+        price: '210',
         type: 'sweets',
       },
       {
@@ -842,7 +882,7 @@ export const sweetsProducts = {
         imgUrl: '/facoz500.png',
         title: 'معمول مشكل فستق وجوز',
         description: '500 غرام',
-        price: '260',
+        price: '285',
         type: 'sweets',
       },
 
@@ -877,7 +917,7 @@ export const sweetsProducts = {
         imgUrl: '/baraz.png',
         title: 'برازق',
         description: '500 غرام',
-        price: '160',
+        price: '175',
         type: 'sweets',
       },
 
@@ -894,7 +934,7 @@ export const sweetsProducts = {
         imgUrl: '/kara500.png',
         title: 'غريبة',
         description: '500 غرام',
-        price: '160',
+        price: '170',
         type: 'sweets',
       },
       {
@@ -936,7 +976,7 @@ export const sweetsProducts = {
         imgUrl: '/batitart.png',
         title: 'بتيفور تارت',
         description: '550 غرام',
-        price: '180',
+        price: '200',
         type: 'sweets',
       },
       {
@@ -944,7 +984,7 @@ export const sweetsProducts = {
         imgUrl: '/tartmsa.png',
         title: 'بتيفور تارت مشكل',
         description: '500 غرام',
-        price: '180',
+        price: '200',
         type: 'sweets',
       },
 
@@ -953,7 +993,7 @@ export const sweetsProducts = {
         imgUrl: '/batisable.png',
         title: 'بتيفور سابليه مشكل',
         description: '500 غرام',
-        price: '165',
+        price: '185',
         type: 'sweets',
       },
 
@@ -962,32 +1002,32 @@ export const sweetsProducts = {
         imgUrl: '/sadamsak.png',
         title: 'بتيفور سادة مشكل',
         description: '500 غرام',
-        price: '150',
+        price: '170',
         type: 'sweets',
       },
 
-      {
+      /**{
         id: 'النواشف20',
         imgUrl: '/halkommas.png',
         title: 'راحة حلقوم مشكل',
         description: '500 غرام',
         price: '175',
         type: 'sweets',
-      },
+      },**/
       {
         id: 'النواشف24',
         imgUrl: '/noba.png',
         title: 'مشكل نوغا',
         description: '500 غرام',
-        price: '200',
+        price: '240',
         type: 'sweets',
       },
       {
         id: 'النواشف21',
         imgUrl: '/lozsokola.png',
         title: 'أصابع لوز بالشوكولا',
-        description: '450 غرام',
-        price: '175',
+        description: '500 غرام',
+        price: '200',
         type: 'sweets',
       },
       {
@@ -995,7 +1035,7 @@ export const sweetsProducts = {
         imgUrl: '/layalisam.png',
         title: 'ليالي الشام',
         description: 'سعر الكغ',
-        price: '220',
+        price: '290',
         type: 'sweets',
       },
     ],
@@ -1032,7 +1072,7 @@ export const sweetsProducts = {
         imgUrl: '/karibakas.png',
         title: 'غريبة بالقشطة',
         description: 'سعر القطعة',
-        price: '20',
+        price: '30',
         type: 'sweets',
       },
       {
@@ -1040,7 +1080,7 @@ export const sweetsProducts = {
         imgUrl: '/warbat.png',
         title: 'وربات بالقشطة',
         description: 'سعر القطعة',
-        price: '24',
+        price: '30',
         type: 'sweets',
       },
       {
@@ -1048,7 +1088,7 @@ export const sweetsProducts = {
         imgUrl: '/barbat.png',
         title: 'وردات بالقشطة',
         description: 'سعر القطعة',
-        price: '22',
+        price: '30',
         type: 'sweets',
       },
       {
@@ -1056,7 +1096,7 @@ export const sweetsProducts = {
         imgUrl: '/namora.png',
         title: 'نمورة بالقشطة',
         description: 'سعر الكغ',
-        price: '200',
+        price: '250',
         type: 'sweets',
       },
       {
@@ -1072,7 +1112,7 @@ export const sweetsProducts = {
         imgUrl: '/magsosa.png',
         title: 'مغشوشة بالقشطة',
         description: 'سعر كغ',
-        price: '200',
+        price: '250',
         type: 'sweets',
       },
       {
@@ -1080,7 +1120,7 @@ export const sweetsProducts = {
         imgUrl: '/bulbulka.png',
         title: 'عش البلبل بالقشطة',
         description: 'سعر الكغ',
-        price: '200',
+        price: '250',
         type: 'sweets',
       },
       {
@@ -1088,7 +1128,7 @@ export const sweetsProducts = {
         imgUrl: '/knafeam.png',
         title: 'كنافة أم النارين',
         description: 'سعر الكغ',
-        price: '200',
+        price: '250',
         type: 'sweets',
       },
       {
@@ -1096,7 +1136,7 @@ export const sweetsProducts = {
         imgUrl: '/faysal.png',
         title: 'فيصلية',
         description: 'سعر الكغ',
-        price: '500',
+        price: '600',
         type: 'sweets',
       },
       {
@@ -1104,7 +1144,7 @@ export const sweetsProducts = {
         imgUrl: '/asmaliyaas.png',
         title: 'عصملية بالقشطة',
         description: 'سعر كغ',
-        price: '200',
+        price: '250',
         type: 'sweets',
       },
 
@@ -1121,7 +1161,7 @@ export const sweetsProducts = {
         imgUrl: '/madloka.png',
         title: 'مدلوقة بالقشطة',
         description: 'سعر الكغ',
-        price: '200',
+        price: '250',
         type: 'sweets',
       },
       {
@@ -1129,7 +1169,7 @@ export const sweetsProducts = {
         imgUrl: '/madrokaak.png',
         title: 'مفروكة بالقشطة',
         description: 'سعر القطعة',
-        price: '30',
+        price: '40',
         type: 'sweets',
       },
 
@@ -1138,7 +1178,7 @@ export const sweetsProducts = {
         imgUrl: '/madrokaak.png',
         title: 'مفروكة بالقشطة',
         description: 'سعر الكغ',
-        price: '220',
+        price: '350',
         type: 'sweets',
       },
       {
@@ -1146,7 +1186,7 @@ export const sweetsProducts = {
         imgUrl: '/halavab.png',
         title: 'حلاوة الجبن',
         description: 'سعر الكغ',
-        price: '160',
+        price: '190',
         type: 'sweets',
       },
 
@@ -1155,7 +1195,7 @@ export const sweetsProducts = {
         imgUrl: '/sacoz.png',
         title: 'شعيبيات بالجوز',
         description: 'سعر القطعة',
-        price: '27',
+        price: '40',
         type: 'sweets',
       },
       {
@@ -1163,7 +1203,7 @@ export const sweetsProducts = {
         imgUrl: '/sabiyatkas.png',
         title: 'شعيبيات بالقشطة',
         description: 'سعر القطعة',
-        price: '25',
+        price: '35',
         type: 'sweets',
       },
       {
@@ -1171,7 +1211,7 @@ export const sweetsProducts = {
         imgUrl: '/bozaka.png',
         title: 'بوظا عربي بالقشطة والفستق اكسترا',
         description: 'سعر كغ',
-        price: '220',
+        price: '350',
         type: 'sweets',
       },
 
@@ -1180,7 +1220,7 @@ export const sweetsProducts = {
         imgUrl: '/bakladas.png',
         title: 'بقلاوة بالفستق',
         description: 'سعر الكغ',
-        price: '500',
+        price: '600',
         type: 'sweets',
       },
       {
@@ -1188,7 +1228,7 @@ export const sweetsProducts = {
         imgUrl: '/baklacoz.png',
         title: 'بقلاوة بالجوز',
         description: 'سعر الكغ',
-        price: '400',
+        price: '430',
         type: 'sweets',
       },
       {
@@ -1196,7 +1236,7 @@ export const sweetsProducts = {
         imgUrl: '/midyada.png',
         title: 'ميديا بالفستق',
         description: 'سعر الكغ',
-        price: '320',
+        price: '600',
         type: 'sweets',
       },
 
@@ -1205,7 +1245,7 @@ export const sweetsProducts = {
         imgUrl: '/eswara.png',
         title: 'إسوارة الست',
         description: 'سعر الكغ',
-        price: '250',
+        price: '320',
         type: 'sweets',
       },
 
@@ -1214,7 +1254,7 @@ export const sweetsProducts = {
         imgUrl: '/harisa.png',
         title: 'هريسة بالفستق',
         description: '1000 غرام',
-        price: '190',
+        price: '300',
         type: 'sweets',
       },
       {
@@ -1222,7 +1262,7 @@ export const sweetsProducts = {
         imgUrl: '/mokasarat.png',
         title: 'هريسة بالمكسرات',
         description: '1000 غرام',
-        price: '190',
+        price: '300',
         type: 'sweets',
       },
       {
@@ -1239,7 +1279,7 @@ export const sweetsProducts = {
         imgUrl: '/isbanya.png',
         title: 'إسبانيّة',
         description: 'سعر الكغ',
-        price: '120',
+        price: '170',
         type: 'sweets',
       },
 
@@ -1248,7 +1288,7 @@ export const sweetsProducts = {
         imgUrl: '/malokmoak.png',
         title: 'ملوكية بالمكسرات',
         description: '600 غرام',
-        price: '240',
+        price: '390',
         type: 'sweets',
       },
       {
@@ -1256,7 +1296,7 @@ export const sweetsProducts = {
         imgUrl: '/kiile.png',
         title: 'كلير',
         description: 'سعر القطعة',
-        price: '23',
+        price: '30',
         type: 'sweets',
       },
     ],
